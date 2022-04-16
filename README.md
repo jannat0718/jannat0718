@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Jannatul Ferdous</h1>
-<h3 align="center">A passionate about Data science and Analycis, Machine learning and NLP from Bangladesh</h3>
+<h3 align="center">An enthusiastic about  Machine learning , Deeplearning and NLP from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat0718&label=Profile%20views&color=0e75b6&style=flat" alt="jannat0718" /> </p>
 
