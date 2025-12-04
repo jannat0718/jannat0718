@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MLOps**
 
-- 👯 I’m looking to collaborate on **Building End-to-End Pipeline using ML & DL project on image related projects **
+- 👯 I’m looking to collaborate on **Building End-to-End Pipeline using ML & DL project on image related projects**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with **pipelines, CI/CD, deployment, etc.**
 
 - 💬 Ask me about **Computer Vision, ML, DL, etc.**
 
